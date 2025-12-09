@@ -1,0 +1,10 @@
+{
+  "chapters":[
+    {"id":1,"title":"Tutorial 1","phase":"Tutorial","levels":[{"id":1,"rows":6,"cols":8,"layout":[]} , {"id":2,"rows":6,"cols":8,"layout":[]}]},
+    {"id":2,"title":"Tutorial 2","phase":"Tutorial","levels":[{"id":3,"rows":6,"cols":8,"layout":[]},{"id":4,"rows":6,"cols":8,"layout":[]}]},
+    {"id":3,"title":"Tutorial 3","phase":"Tutorial","levels":[{"id":5,"rows":6,"cols":8,"layout":[]},{"id":6,"rows":6,"cols":8,"layout":[]}]},
+    {"id":4,"title":"Story1 Kapitel 4","phase":"Story1","levels":[]},
+    ...
+    {"id":26,"title":"Story1 Kapitel 26","phase":"Story1","levels":[]}
+  ]
+}
